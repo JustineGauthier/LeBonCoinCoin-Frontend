@@ -1,0 +1,9 @@
+.offer-container {
+  padding: 100px;
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  img {
+    width: 500px;
+  }
+}

@@ -1,0 +1,21 @@
+.navBar {
+  display: flex;
+  justify-content: space-around;
+  padding: 70px;
+  background-image: url("../../assets/images/ef50b169a90f1f2589830334d1d6429d.jpg");
+  font-size: 1.2rem;
+  align-items: center;
+}
+
+.right-buttons {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+}
+
+.publish-button {
+  background-color: white;
+  border-radius: 10px;
+  border: 2px solid darkgreen;
+  padding: 10px;
+}
